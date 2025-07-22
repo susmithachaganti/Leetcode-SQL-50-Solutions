@@ -8,7 +8,10 @@ Table: Products
 +-------------+---------+
 Question : Write a solution to find the ids of products that are both low fat and recyclable.
 Return the result table in any order.
-Example 1:
+
+MYSQL CODE:
+select product_id from Products  where low_fats = 'Y' and recyclable = 'Y';
+
 Input: 
 Products table:
 +-------------+----------+------------+
@@ -28,5 +31,3 @@ Output:
 | 3           |
 +-------------+
 Explanation: Only products 1 and 3 are both low fat and recyclable.
-CODE:
-select product_id from Products  where low_fats = 'Y' and recyclable = 'Y';
