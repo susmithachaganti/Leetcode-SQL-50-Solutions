@@ -15,7 +15,7 @@ LET'S EXPLORE:
 | Topic            | Problems Solved | Status        |
 |------------------|------------------|----------------|
 | Basic SELECT      | ✅ 15/15           | DONE       |
-| Joins             | ⏳ 1/10            | On Going   |
+| Joins             | ✅   9/9           | Done   |
 | Aggregation       | ⏳ 0/8             | Not Started    |
 | Subqueries        | ⏳ 0/7             | Not Started    |
 | Window Functions  | ⏳ 0/5             | Not Started    |
@@ -32,14 +32,14 @@ LET'S EXPLORE:
 | 4 | Article Views I                                             | Easy       | SELECT              | ✅      |
 | 5 | Invalid Tweets                                              | Easy       | String Functions    | ✅      |
 | 6 | Replace Employee ID With The Unique Identifier              | Easy       | Joins               | ✅      |
-| 7 | Product Sales Analysis I                                    | Easy       | Joins               | ❌      |
-| 8 | Customer Who Visited but Did Not Make Any Transactions      | Easy       | Joins               | ❌     |
-| 9 | Rising Temperature                                          | Easy       | Date Comparison     | ❌      |
-|10 | Average Time of Process per Machine                         | Easy       | Aggregation         | ❌      |
-|11 | Employee Bonus                                              | Easy       | Joins               | ❌      |
-|12 | Students and Examinations                                   | Easy       | Joins               | ❌      |
-|13 | Managers with at Least 5 Direct Reports                     | Medium     | Aggregation         | ❌      |
-|14 | Confirmation Rate                                           | Medium     | Joins + Percentage  | ❌      |
+| 7 | Product Sales Analysis I                                    | Easy       | Joins               | ✅        |
+| 8 | Customer Who Visited but Did Not Make Any Transactions      | Easy       | Joins               | ✅       |
+| 9 | Rising Temperature                                          | Easy       | Date Comparison     | ✅        |
+|10 | Average Time of Process per Machine                         | Easy       | Aggregation         | ✅       |
+|11 | Employee Bonus                                              | Easy       | Joins               | ✅        |
+|12 | Students and Examinations                                   | Easy       | Joins               | ✅       |
+|13 | Managers with at Least 5 Direct Reports                     | Medium     | Aggregation         | ✅        |
+|14 | Confirmation Rate                                           | Medium     | Joins + Percentage  | ✅        |
 |15 | Not Boring Movies                                           | Easy       | Filtering           | ❌      |
 |16 | Average Selling Price                                       | Easy       | Aggregation         | ❌      |
 |17 | Project Employees I                                         | Easy       | Joins               | ❌      |
@@ -83,12 +83,8 @@ LET'S EXPLORE:
 Each folder contains `.sql` files with:
 - ✅ Problem name
 - 💡 Solution with comments
-- 🔗 Link to the LeetCode problem
-
 ---
-
 ## 🔗 Let’s Connect
-
 - [GitHub](https://github.com/susmithachaganti)
 - [LinkedIn](https://www.linkedin.com/in/susmitha-chaganti)
 
