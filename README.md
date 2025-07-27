@@ -86,7 +86,7 @@ Each folder contains `.sql` files with:
 ---
 ## 🔗 Let’s Connect
 - [GitHub](https://github.com/susmithachaganti)
-- [LinkedIn](https://www.linkedin.com/in/susmitha-chaganti)
+- [LinkedIn](www.linkedin.com/in/susmitha-chaganti-230756280)
 
 ---
 
