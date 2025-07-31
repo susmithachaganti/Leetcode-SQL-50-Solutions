@@ -14,9 +14,9 @@ LET'S EXPLORE:
 
 | Topic            | Problems Solved | Status        |
 |------------------|------------------|----------------|
-| Basic SELECT      | ✅ 15/15           | DONE       |
-| Joins             | ✅   9/9           | Done   |
-| Aggregation       | ⏳ 0/8             | Not Started    |
+| Basic SELECT      | ✅ 5/5           | DONE       |
+| Joins             | ✅ 9/9           | DONE   |
+| Aggregation       | ✅  8/8             | DONE    |
 | Subqueries        | ⏳ 0/7             | Not Started    |
 | Window Functions  | ⏳ 0/5             | Not Started    |
 | Advanced Topics   | ⏳ 0/5             | Not Started    |
@@ -40,14 +40,14 @@ LET'S EXPLORE:
 |12 | Students and Examinations                                   | Easy       | Joins               | ✅       |
 |13 | Managers with at Least 5 Direct Reports                     | Medium     | Aggregation         | ✅        |
 |14 | Confirmation Rate                                           | Medium     | Joins + Percentage  | ✅        |
-|15 | Not Boring Movies                                           | Easy       | Filtering           | ❌      |
-|16 | Average Selling Price                                       | Easy       | Aggregation         | ❌      |
-|17 | Project Employees I                                         | Easy       | Joins               | ❌      |
-|18 | Percentage of Users Attended a Contest                      | Easy       | Aggregation         | ❌      |
-|19 | Queries Quality and Percentage                              | Easy       | Aggregation         | ❌      |
-|20 | Monthly Transactions I                                      | Medium     | Grouping by Month   | ❌      |
-|21 | Immediate Food Delivery II                                  | Medium     | Joins + Aggregation | ❌      |
-|22 | Game Play Analysis IV                                       | Medium     | Date Functions      | ❌      |
+|15 | Not Boring Movies                                           | Easy       | Filtering           | ✅       |
+|16 | Average Selling Price                                       | Easy       | Aggregation         | ✅       |
+|17 | Project Employees I                                         | Easy       | Joins               | ✅       |
+|18 | Percentage of Users Attended a Contest                      | Easy       | Aggregation         | ✅       |
+|19 | Queries Quality and Percentage                              | Easy       | Aggregation         | ✅       |
+|20 | Monthly Transactions I                                      | Medium     | Grouping by Month   | ✅       |
+|21 | Immediate Food Delivery II                                  | Medium     | Joins + Aggregation | ✅       |
+|22 | Game Play Analysis IV                                       | Medium     | Date Functions      | ✅       |
 |23 | Number of Unique Subjects Taught by Each Teacher            | Easy       | GROUP BY            | ❌      |
 |24 | User Activity for the Past 30 Days I                        | Easy       | Date Filtering      | ❌      |
 |25 | Product Sales Analysis III                                  | Medium     | Joins + Dates       | ❌      |
